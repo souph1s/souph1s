@@ -6,7 +6,7 @@ Me chamo Sophia mas pode me chamar de Sophi!
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-Estou na área há mais ou menos 1 ano, atualmente estou estudando mais front-end, com ReactJS, TypeScript e TailWind! Tô curtindo bastante e fervendo meu cérebro para centralizar divs! HAHAHAHAHA
+Sou curitibana e astou na área de tecnologia há mais ou menos 1 ano, atualmente estudando mais front-end, com ReactJS, TypeScript e TailWind! <br> Tô curtindo bastante e fervendo meu cérebro para centralizar divs! HAHAHAHAHA <br>
 Gosto muito de design e tenho uma boa experiência com todo o pacote Adobe, portanto sempre tento dar um toque a mais nos meus projetos!
 
 ## Linguagens e ferramentas
