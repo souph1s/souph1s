@@ -1,4 +1,5 @@
-# Oi devs (e curiosos) 👋
+<h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF3NGFqYzNldmRrdzRyODR2ZzQzYWhlMHkzMWZvM21rcDJ3NncxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="150"/> Hello everyone! </h1> 
+
 
 Me chamo Sophia mas pode me chamar de Sophi!
 
