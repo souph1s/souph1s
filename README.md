@@ -1,16 +1,18 @@
-<h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF3NGFqYzNldmRrdzRyODR2ZzQzYWhlMHkzMWZvM21rcDJ3NncxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="150"/> Hello everyone! </h1> 
+<h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF3NGFqYzNldmRrdzRyODR2ZzQzYWhlMHkzMWZvM21rcDJ3NncxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="150"/> <br> What's up fellaz! </h1> 
 
+I'm Sophia, but you guys can call me Sophi!
+<br> <br>
+A 22-year-old Jr FullStack Developer hailing from the beautiful city of Curitiba, Paraná, Brazil. <br> 
+Originating from the vibrant city of Curitiba, Paraná, Brazil, I'm currently sculpting my coding prowess while juggling the dynamic dance of Analysis and System Development in college.
 
-Me chamo Sophia mas pode me chamar de Sophi!
-
-## Um pouquinho sobre mim
+## A little bit about me!
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-Sou curitibana e astou na área de tecnologia há mais ou menos 1 ano, atualmente estudando mais front-end, com ReactJS, TypeScript e TailWind! <br> Tô curtindo bastante e fervendo meu cérebro para centralizar divs! HAHAHAHAHA <br>
-Gosto muito de design e tenho uma boa experiência com todo o pacote Adobe, portanto sempre tento dar um toque a mais nos meus projetos!
+In a past life, I waltzed through the worlds of design and art, infusing my creations with a dash of creativity. Now, as a developer, I'm on a quest to unite the powers of design and code, sculpting seamless and visually captivating user experiences. <br> 
+Let's code the future together! 📚✨
 
-## Linguagens e ferramentas
+## Languages & tools
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -30,10 +32,9 @@ Gosto muito de design e tenho uma boa experiência com todo o pacote Adobe, port
 </a>
 
 [website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[twitter]: https://twitter.com/@souphis
+[instagram]: https://www.instagram.com/souphis/
+[linkedin]: https://www.linkedin.com/in/sophiamuraro/
 
 <br>
 
@@ -41,6 +42,5 @@ Gosto muito de design e tenho uma boa experiência com todo o pacote Adobe, port
 
 🏡 [Website][website] **|**
 🐦 [Twitter][twitter] **|**
-📺 [Youtube][youtube] **|**
 📷 [Instagram][instagram] **|**
 👔 [LinkedIn][linkedin]
