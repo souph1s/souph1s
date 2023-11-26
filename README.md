@@ -1,16 +1,20 @@
 <h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF3NGFqYzNldmRrdzRyODR2ZzQzYWhlMHkzMWZvM21rcDJ3NncxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="150"/> <br> What's up fellaz! </h1> 
 
-I'm Sophia, but you guys can call me Sophi!
+I'm Sophia, but you guys can call me Sophi! ✨
 <br> <br>
-A 22-year-old Jr FullStack Developer hailing from the beautiful city of Curitiba, Paraná, Brazil. <br> 
-Originating from the vibrant city of Curitiba, Paraná, Brazil, I'm currently sculpting my coding prowess while juggling the dynamic dance of Analysis and System Development in college.
+A 22-year-old Jr FullStack Developer hailing from the beautiful city of Curitiba, Paraná, Brazil. 📍 <br> 
+In my off-screen life, I have a partner in crime, my trusty Adam's Rib named Ramires. 🌱 <br> <br> 
+As I conquer the coding challenges, I find solace in the disco grooves of <a href="https://www.youtube.com/watch?v=iBkmY-imhvs&t=605s&ab_channel=MyAnalogJournal">this playlist</a>.  🔊<br>
+Beyond the code and beats, my current literary companion is "Start With The Why" by Simon Sinek, where I delve into the depths of purpose and motivation. 📕
 
 ## A little bit about me!
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 In a past life, I waltzed through the worlds of design and art, infusing my creations with a dash of creativity. Now, as a developer, I'm on a quest to unite the powers of design and code, sculpting seamless and visually captivating user experiences. <br> 
-Let's code the future together! 📚✨
+
+I'm currently sculpting my coding prowess while juggling the dynamic dance of Analysis and System Development in college. 📚✨ <br>
+Let's code the future together!
 
 ## Languages & tools
 
